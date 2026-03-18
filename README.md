@@ -45,6 +45,7 @@ This project demonstrates testing and integration of various **free AI APIs** su
 
 
 
-   👨‍💻 Author
 
+
+👨‍💻 Author
 Pranay Khojare
